@@ -11,8 +11,8 @@ let listaServicos = document.querySelector('.lista-servicos');
 
 function criaCardServico() {
 
-  //Criando o novo elemento
-  let criaElementoLi = document.createElement('LI');
+  //Criando o novo elemento do tipo LI -> item da lista
+  let criaElementoLi = document.createElement('li');
 
   //Criando conteúdo do LI
   let criaConteudoLi = document.createTextNode(
