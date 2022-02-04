@@ -1,6 +1,9 @@
-# CTD-Summer-Week-22-Front-End_II
+# CTD Summer Week 2022 Front-End II (Digital House Brasil)
 
 Projeto desenvolvido em aula com os alunos do 2° e 3° bimestre do Certified Tech Developer na Digital House, nos dias 01 e 03 de Fevereiro de 2022.
+
+Visualização do projeto: https://xk08.github.io/CTD-Summer-Week-22-Front-End_II/
+
 - ## Conteúdos de Front end II abordados:
   - Formulários e validação (utilizando Bootstrap)
   - Manipulação de elementos com o DOM
