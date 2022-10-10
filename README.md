@@ -19,8 +19,6 @@ Visualização do projeto: https://xk08.github.io/CTD-Summer-Week-22-Front-End_I
   - ### Aba da comunidade:
     - Exibir em outra tela, mais informações dos usuários da API
   - ### Prazo e forma de envio:
-    - Dia 07/02/22 (Segunda-feira)
+    - Sem prazo específico definido
     - Fork do projeto, arquivos ZIP ou GitPages
     - Email para envio: mmartins@digitalhouse.com
-
-
